@@ -11,14 +11,14 @@ const BLOG = {
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2023, // If leave this empty, current year will be used.
+  since: , // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
   showAbout: true,
-  showArchive: true,
+  showArchive: false,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://instagtam.com/rhee.juyun',
   seo: {
     keywords: ['철학', '블로그'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
