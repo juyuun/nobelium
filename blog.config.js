@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: false,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://instagtam.com/rhee.juyun',
+  socialLink: 'https://instagram.com/rhee.juyun',
   seo: {
     keywords: ['철학', '블로그'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
