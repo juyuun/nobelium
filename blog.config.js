@@ -1,7 +1,7 @@
 const BLOG = {
   title: '철학 수첩',
   author: '주윤',
-  email: 'vxruf@kakao.com',
+  email: 'syllogisms_thien@simplelogin.com',
   link: 'https://rhee.vercel.app',
   description: '철학 기록들',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
