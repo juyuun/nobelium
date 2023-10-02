@@ -1,6 +1,6 @@
 module.exports = {
   images: {
-    domains: ['https://gravatar.com/syllogismsthien']
+    domains: ['https://2.gravatar.com/avatar/0831d3a3e9d06f1aea1719d7559370ea39a5927267b044a2d051a5c467718d91?size=256']
   },
   eslint: {
     // dirs: ['components', 'layouts', 'lib', 'pages']
