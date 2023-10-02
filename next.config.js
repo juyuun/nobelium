@@ -1,6 +1,6 @@
 module.exports = {
   images: {
-    domains: ['gravatar.com']
+    domains: ['https://photos.app.goo.gl/bVjbzyA2ZNKjuSr67']
   },
   eslint: {
     // dirs: ['components', 'layouts', 'lib', 'pages']
