@@ -25,7 +25,7 @@ export default function BlogPost ({ post, blockMap, emailHash }) {
       layout="blog"
       title={post.title}
       description={post.summary}
-      slug="/mindfulness"
+      slug=['mindfulness']
       // date={new Date(post.publishedAt).toISOString()}
       type="article"
       fullWidth={fullWidth}
